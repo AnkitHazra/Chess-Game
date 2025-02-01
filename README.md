@@ -55,16 +55,7 @@ node app.js
 
 Server will start on **[http://localhost:3000](http://localhost:3000)**
 
-## 🌍 Deployment on Vercel
-
-1. Install Vercel CLI:
-   ```sh
-   npm install -g vercel
-   ```
-2. Deploy the project:
-   ```sh
-   vercel --prod
-   ```
+#
 
 ## 🎮 How to Play?
 
